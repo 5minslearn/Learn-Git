@@ -2,6 +2,7 @@
 This repo contains everything about Git. Read through all the articles to get mastered at Git
 
 ## What is Git? 
+![What is Git?](https://miro.medium.com/max/1400/1*N0Rg28mkGeWX-hHqDLlUYg.png)
 https://5minslearn.medium.com/what-is-git-4bf01d929524
 
 ## How Git Works? 
